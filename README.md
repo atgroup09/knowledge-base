@@ -41,12 +41,12 @@ This repository contains Basic Documentation (introduction manuals) by Embedded 
 - Intro
   > `Normally-Closed` `Normal-Opened` `Thermal Relay` `Automatic Switch` `Emergency Protection`
 
-# Networks
+## Networks
 
 - Intro
   > `Topologies` `Point-Point` `Bus` `Star` `Ring` `Mesh` `OSI` `UART` `RS-232` `RS-485` `Ethernet` `Fiber-Optic`
 
-# RS-485
+## RS-485
 
 - Intro
   > `Standard` `Characteristics` `Topology` `Cables` `Protection Schemes`
