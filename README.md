@@ -1,7 +1,8 @@
 # Knowledge Base
 
-This repository contains Basic Documentation (introduction manuals) by Embedded and Applied Automation Systems:
+This repository contains Basic Documentation (introduction manuals) by Embedded and Applied Automation Systems.
 
+[Download ZIP](https://github.com/atgroup09/knowledge-base/archive/refs/heads/main.zip)
 
 ## Automated Control Systems
 
