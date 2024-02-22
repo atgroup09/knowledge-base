@@ -115,3 +115,9 @@ This repository contains Basic Documentation (introduction manuals) by Embedded 
   > `Boot Stages` `Bootloader` `Payload` `DDR Start-Up Scheme`
 - Build Process
   > `Buils Stages` `Software` `Project Structure` `HSS Bootloader` `MSS Configurator` `FPGA Design` `MSS Application` `MSS Payload` `SPI-FLASH`
+
+## USEFUL LINK
+https://instrumentationtools.com/
+https://automationforum.co/
+https://www.electrical4u.com/
+https://maxplant.ru/
