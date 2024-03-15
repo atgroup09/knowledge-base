@@ -1,5 +1,54 @@
-+ яБЕРНЯХЦМЮКЭМЮЪ ЮООЮПЮРСПЮ Х АЮПЭЕПШ АЕГНОЮЯМНЯРХ
-  ++ оПХАНПМШЕ ЯХЯРЕЛШ АЕГНОЮЯМНЯРХ
-  ++ дЮРВХЙХ АЕГНОЮЯМНЯРХ
-  ++ юБЮПХИМШЕ БШЙКЧВЮРЕКХ Х ЯБЕРНЯХЦМЮКЭМЮЪ ЮООЮПЮРСПЮ
 
+  00001-юясро ббедемхе
+  00010-юясро юпухрейрспмше пеьемхъ (нямнбш)
+  00011-юясро юпухрейрспмше пеьемхъ (ондпнамн)
+  00100-юясро опнейрхпнбюмхе х пюгпюанрйю
+  00200-юясро яуелю юбрнлюрхгюжхх
+  00900-юясро пяс YOKOGAWA CENTUM-VP
+
+  01000-щкейрпнмхйю
+  01100-яхцмюкш
+  01200-йюмюкш ббндю-бшбндю
+  01300-яуелш жеоеи сопюбкемхъ
+
+  02000-яерх ябъгх
+  02100-хмрептеия RS-485
+  02200-опнрнйнк MODBUS
+  02210-опнрнйнк MQTT
+
++ 03000-дюрвхйх
+  https://maxplant.ru/article/temperature_sensor.php
+  https://maxplant.ru/article/pressure_sensor.php
+  https://maxplant.ru/article/flow_sensor.php
+  https://maxplant.ru/article/level_sensor.php
+  https://maxplant.ru/article/load_sensor.php
+  https://maxplant.ru/article/proximity_sensor.php
+  https://maxplant.ru/article/encoder.php
+  https://maxplant.ru/article/analyzer.php
+  https://maxplant.ru/article/identification.php
+
+  04000-окй
+  04100-HMI
+
+  05000-опнрхбнюбюпхимюъ гюыхрю
+
+
+  05100-яреоемэ гюыхрш нанкнвйх (IPXX)
+
+  06000-бхпрсюкхгюжхъ
+  06100-яхярелю сопюбкемхъ бепяхълх
+  06200-яхярелю сопюбкемхъ опнейрюлх
+
+  07000-йнмрсп сопюбкемхъ х юкцнпхрлш пецскхпнбюмхъ
+  
+  08000-ъгшйх опнцпюллхпнбюмхъ лщй-61131-3
+  08001-FB охд-пецскърнп
+  08002-FB люяьрюахпнбюмхе
+
+  09000-ноепюжхнммюъ яхярелю
+
+  10000-EASYBUILDER PRO
+
+  90000-окхя
+  90010-MPFS-BOOT-UP SEQUENCE
+  90011-MPFS-BUILD PROCESS
