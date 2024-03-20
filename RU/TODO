@@ -16,8 +16,11 @@
   02200-опнрнйнк MODBUS
   02210-опнрнйнк MQTT
 
-+ 03000-дюрвхйх
-  https://maxplant.ru/article/temperature_sensor.php
+  03000-реплнлерп янопнрхбкемхъ
+  03001-реплноюпю
+
++ 03002-охпнлерп
+
   https://maxplant.ru/article/pressure_sensor.php
   https://maxplant.ru/article/flow_sensor.php
   https://maxplant.ru/article/level_sensor.php
